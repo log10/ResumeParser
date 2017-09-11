@@ -1,2 +1,5 @@
 /build/
 /nbproject/
+/.gradle/
+/.nb-gradle/
+/libs/
